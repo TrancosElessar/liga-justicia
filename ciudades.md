@@ -3,3 +3,7 @@
 1. Ciudad Gótica
 2. Metrópolis
 3. Pueblo Paleta
+
+# NOTA:
+
+> - Fork desde gmail
