@@ -7,39 +7,30 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Nuevos cambios
 
 # h1
-
 ## h2
-
 ### h3
-
 #### h4
-
 ##### h5
-
 ###### h6
 
-- A
-- B
-- C
-- D
-- e
-  - e1
-  - e2
-  - e3
+* A
+* B
+* C
+* D
+* e
+  * e1
+  * e2
+  * e3
 
 ![Gandalf](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHimFTMB-QnTnzK52Pin3TdyZhhkIcZsRmIw&usqp=CAU)
 
-_Esto_ es un _Texto_
-
-> `Esto` es `Codigo`
-
+*Esto* es un _Texto_
+>
+`Esto` es ```Codigo```
+>
 ```
   for(let i = 0; i < 10; i++)
   {
     console.log('Mensaje');
   }
 ```
-
-## FORK ML
-
-> - Prueba de un Fork desde otra cuenta personal
