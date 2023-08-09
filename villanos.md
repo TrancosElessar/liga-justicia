@@ -6,5 +6,5 @@
 4. Doomsday
 5. Deadshot
 6. Harley Quinn
-   sdfdsf
-   asdsa
+7. Pinguino
+8. Acertijo
